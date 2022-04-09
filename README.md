@@ -39,3 +39,4 @@ density estimation with other initial parameters might solve it
 * Siraj Raval
 * [OpenGenius IQ](https://iq.opengenus.org/expectation-maximization-clustering-algorithm/)
 * [Towards Data Science](https://towardsdatascience.com/gaussian-mixture-models-and-expectation-maximization-a-full-explanation-50fa94111ddd)
+* [Gabor Lengyel](https://github.com/GaborLengyel/Finite-Gaussian-Mixture-models/blob/master/Finite%20Gaussian%20Mixture%20models.ipynb)
